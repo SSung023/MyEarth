@@ -1,0 +1,1166 @@
+﻿Log file open, 06/26/23 23:35:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../MyEarth/Content/Paks/MyEarth-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../MyEarth/Content/Paks/MyEarth-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=129450
+LogPakFile: PakFile PathHashIndexSize=101566
+LogPakFile: PakFile FullDirectoryIndexSize=220949
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../MyEarth/Content/Paks/MyEarth-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../MyEarth/Content/Paks/MyEarth-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000028
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.125751
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin Volumetrics
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 30 2021 07:26:28
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Github Workspace/MyEarth/WindowsNoEditor/MyEarth/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.26-14.35.58:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.26-14.35.58:211][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.26-14.35.58:212][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.26-14.35.58:212][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.06.26-14.35.58:212][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2023.06.26-14.35.58:212][  0]LogHAL: Display: Platform has ~ 16 GB [17126510592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.26-14.35.58:212][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.06.26-14.35.58:212][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.26-14.35.58:213][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.26-14.35.58:214][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.26-14.35.58:214][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.26-14.35.58:214][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.26-14.35.58:214][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../MyEarth/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.06.26-14.35.58:214][  0]LogInit: Computer: EKUN-MAIN
+[2023.06.26-14.35.58:214][  0]LogInit: User: user
+[2023.06.26-14.35.58:214][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.26-14.35.58:214][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.26-14.35.58:214][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.06.26-14.35.58:214][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2023.06.26-14.35.58:214][  0]LogMemory: Process Physical Memory: 89.83 MB used, 89.83 MB peak
+[2023.06.26-14.35.58:214][  0]LogMemory: Process Virtual Memory: 87.96 MB used, 87.96 MB peak
+[2023.06.26-14.35.58:214][  0]LogMemory: Physical Memory: 5643.41 MB used,  10689.71 MB free, 16333.11 MB total
+[2023.06.26-14.35.58:214][  0]LogMemory: Virtual Memory: 134190152.00 MB used,  27579.29 MB free, 134217728.00 MB total
+[2023.06.26-14.35.58:228][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.26-14.35.58:321][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.26-14.35.58:325][  0]LogInit: Using OS detected language (ko-KR).
+[2023.06.26-14.35.58:325][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.06.26-14.35.58:325][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2023.06.26-14.35.58:325][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2023.06.26-14.35.58:347][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.26-14.35.58:421][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.26-14.35.58:421][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.26-14.35.58:500][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.26-14.35.58:506][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.26-14.35.58:506][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.26-14.35.58:507][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.06.26-14.35.58:507][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.26-14.35.58:674][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.06.26-14.35.58:674][  0]LogD3D11RHI:       5958/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     DeviceId    : 1e89
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     SubSysId    : 134d10de
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     DedicatedVideoMemory : 6247415808 bytes
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     SharedSystemMemory : 8563255296 bytes
+[2023.06.26-14.35.58:677][  0]LogD3D11RHI:     AdapterLuid : 0 46076
+[2023.06.26-14.35.58:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.26-14.35.58:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.26-14.35.58:684][  0]LogWindows: EnumDisplayDevices:
+[2023.06.26-14.35.58:684][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2023.06.26-14.35.58:685][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2023.06.26-14.35.58:685][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.26-14.35.58:686][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.26-14.35.58:687][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:   Driver Version: 528.24 (internal:31.0.15.2824, unified:528.24)
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:      Driver Date: 1-15-2023
+[2023.06.26-14.35.58:687][  0]LogRHI: Texture pool is 4170 MB (70% of 5958 MB)
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     DeviceId    : 1e89
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     SubSysId    : 134d10de
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     DedicatedVideoMemory : 6247415808 bytes
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     SharedSystemMemory : 8563255296 bytes
+[2023.06.26-14.35.58:687][  0]LogD3D11RHI:     AdapterLuid : 0 46076
+[2023.06.26-14.35.58:741][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.26-14.35.58:743][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.26-14.35.58:743][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.26-14.35.58:761][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.06.26-14.35.58:836][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.26-14.35.58:836][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.26-14.35.58:838][  0]LogShaderLibrary: Display: Using ../../../MyEarth/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1951 unique shaders.
+[2023.06.26-14.35.58:838][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2023.06.26-14.35.58:838][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2023.06.26-14.35.58:839][  0]LogTemp: Warning: Clearing the OS Cache
+[2023.06.26-14.35.58:839][  0]LogODSC: ODSC Thread active.
+[2023.06.26-14.35.58:842][  0]LogPakFile: New pak file ../../../MyEarth/Content/Paks/MyEarth-WindowsNoEditor.pak added to pak precacher.
+[2023.06.26-14.35.58:867][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.26-14.35.58:868][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.26-14.35.58:970][  0]LogShaderLibrary: Display: Using ../../../MyEarth/Content/ShaderArchive-MyEarth-PCD3D_SM5.ushaderbytecode for material shader code. Total 5143 unique shaders.
+[2023.06.26-14.35.58:970][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyEarth
+[2023.06.26-14.35.58:970][  0]LogShaderLibrary: Display: Logical shader library 'MyEarth' has been created, components 1
+[2023.06.26-14.35.58:970][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023.06.26-14.35.58:971][  0]LogShaderLibrary: Display: Using ../../../MyEarth/Content/ShaderArchive-MyEarth-PCD3D_SM5.ushaderbytecode for material shader code. Total 5143 unique shaders.
+[2023.06.26-14.35.58:971][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyEarth
+[2023.06.26-14.35.58:971][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023.06.26-14.35.58:971][  0]LogRHI: Display: Failed to open default shader pipeline cache for MyEarth using shader platform 0.
+[2023.06.26-14.35.58:971][  0]LogRHI: Display: Failed to open default shader pipeline cache for MyEarth using shader platform 0.
+[2023.06.26-14.35.58:971][  0]LogInit: Using OS detected language (ko-KR).
+[2023.06.26-14.35.58:971][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.06.26-14.35.58:971][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2023.06.26-14.35.58:972][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2023.06.26-14.35.58:974][  0]LogTextLocalizationManager: Compacting localization data took   0.80ms
+[2023.06.26-14.35.58:974][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2023.06.26-14.35.59:291][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.26-14.35.59:292][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.000205 seconds
+[2023.06.26-14.35.59:298][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2023.06.26-14.35.59:299][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.06.26-14.35.59:300][  0]LogInit: Active device profile: [000002196B858E00][000002195D4DDB70 49] WindowsNoEditor
+[2023.06.26-14.35.59:300][  0]LogInit: Profiles: [000002196B859100][0000021968E824A0 49] Windows, [000002196B858E00][000002195D4DDB70 49] WindowsNoEditor, 
+[2023.06.26-14.35.59:468][  0]LogNetVersion: MyEarth 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1967688885)
+[2023.06.26-14.35.59:642][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.26-14.35.59:642][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.26-14.35.59:643][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.26-14.35.59:775][  0]LogMoviePlayer: Initializing movie player
+[2023.06.26-14.35.59:776][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4D0C38884DD53714AF08998FF6DE59E6 | Instance: FEC7950D42FC456D462972AC9925962E (EKUN-MAIN-9072).
+[2023.06.26-14.35.59:795][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.26-14.35.59:795][  0]LogOcInput: OculusInput pre-init called
+[2023.06.26-14.35.59:801][  0]LogUObjectArray: 15783 objects as part of root set at end of initial load.
+[2023.06.26-14.35.59:801][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2023.06.26-14.35.59:801][  0]LogUObjectAllocator: 3200360 out of 0 bytes used by permanent object pool.
+[2023.06.26-14.35.59:801][  0]LogUObjectArray: CloseDisregardForGC: 15783/15783 objects in disregard for GC pool
+[2023.06.26-14.35.59:814][  0]LogEngine: Initializing Engine...
+[2023.06.26-14.35.59:838][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.06.26-14.35.59:839][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.26-14.35.59:842][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.06.26-14.35.59:891][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.26-14.35.59:892][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.26-14.35.59:892][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.26-14.35.59:893][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.26-14.35.59:893][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.26-14.35.59:893][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.26-14.35.59:893][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-14.35.59:893][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-14.35.59:894][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-14.35.59:894][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-14.35.59:894][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-14.35.59:894][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.26-14.35.59:993][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.26-14.36.00:008][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.26-14.36.00:008][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.06.26-14.36.00:318][  0]LogAudioMixer: Display: Using Audio Device 스피커(Fenda R30BT)
+[2023.06.26-14.36.00:318][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-14.36.00:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-14.36.00:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-14.36.00:320][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.26-14.36.00:320][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.26-14.36.00:320][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.26-14.36.00:322][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.26-14.36.00:322][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.26-14.36.00:322][  0]LogInit: FAudioDevice initialized.
+[2023.06.26-14.36.00:324][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.26-14.36.00:324][  0]LogInit: Texture streaming: Enabled
+[2023.06.26-14.36.00:461][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.26-14.36.00:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-14.36.00:472][  0]LogInit: Display: Game Engine Initialized.
+[2023.06.26-14.36.00:472][  0]LogInit: Display: Starting Game.
+[2023.06.26-14.36.00:473][  0]LogNet: Browse: /Game/Stages/IntroAnimation/MainMenu?Name=Player
+[2023.06.26-14.36.00:473][  0]LogLoad: LoadMap: /Game/Stages/IntroAnimation/MainMenu?Name=Player
+[2023.06.26-14.36.00:473][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.06.26-14.36.00:485][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.36.00:486][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.36.00:489][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-14.36.00:492][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.26-14.36.00:708][  0]LogPakFile: Precache HighWater 16MB
+
+[2023.06.26-14.36.00:722][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.06.26-14.36.00:724][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.06.26-14.36.00:725][  0]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2023.06.26-14.36.00:766][  0]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2023.06.26-14.36.00:767][  0]LogWorld: Bringing World /Game/Stages/IntroAnimation/MainMenu.MainMenu up for play (max tick rate 0) at 2023.06.26-23.36.00
+[2023.06.26-14.36.00:769][  0]LogWorld: Bringing up level for play took: 0.027976
+[2023.06.26-14.36.00:783][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-14.36.00:793][  0]r.LightFunctionQuality = "1"
+[2023.06.26-14.36.00:793][  0]r.SkyLight.RealTimeReflectionCapture = "1"
+[2023.06.26-14.36.00:793][  0]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2023.06.26-14.36.00:793][  0]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2023.06.26-14.36.00:796][  0]LogLoad: Took 0.323039 seconds to LoadMap(/Game/Stages/IntroAnimation/MainMenu)
+[2023.06.26-14.36.00:796][  0]LogStreaming: Display: Suspending async loading (1)
+[2023.06.26-14.36.00:854][  0]LogStreaming: Display: Resuming async loading (0)
+[2023.06.26-14.36.01:077][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2023.06.26-14.36.01:077][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.26-14.36.01:224][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2023.06.26-14.36.01:224][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=702168, PathHashSize=16, EntriesSize=131072, TotalSize=833256
+[2023.06.26-14.36.01:224][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2023.06.26-14.36.01:224][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2023.06.26-14.36.01:224][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.26-14.36.01:224][  0]LogLoad: (Engine Initialization) Total time: 3.45 seconds
+[2023.06.26-14.36.01:227][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.26-14.36.02:132][ 28]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.06.26-14.36.16:266][426]LogNet: Browse: /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.16:266][426]LogLoad: LoadMap: /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.16:266][426]LogWorld: BeginTearingDown for /Game/Stages/IntroAnimation/MainMenu
+[2023.06.26-14.36.16:268][426]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.36.16:277][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.36.16:311][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-14.36.16:355][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.26-14.36.16:364][426]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.26-14.36.17:095][426]LogPakFile: Precache HighWater 32MB
+
+[2023.06.26-14.36.17:095][426]LogPakFile: Precache HighWater 48MB
+
+[2023.06.26-14.36.17:095][426]LogPakFile: Precache HighWater 64MB
+
+[2023.06.26-14.36.17:095][426]LogPakFile: Precache HighWater 80MB
+
+[2023.06.26-14.36.17:113][426]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.06.26-14.36.17:114][426]LogAIModule: Creating AISystem for world MainMenu
+[2023.06.26-14.36.17:114][426]LogLoad: Game class is 'PlayerGameMode_C'
+[2023.06.26-14.36.17:148][426]LogWorld: Bringing World /Game/Stages/Main/MainMenu.MainMenu up for play (max tick rate 0) at 2023.06.26-23.36.17
+[2023.06.26-14.36.17:150][426]LogWorld: Bringing up level for play took: 0.028823
+[2023.06.26-14.36.17:170][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-14.36.17:173][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [PlayerCharacter_C]
+[2023.06.26-14.36.17:173][426]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.06.26-14.36.17:181][426]r.LightFunctionQuality = "1"
+[2023.06.26-14.36.17:181][426]r.SkyLight.RealTimeReflectionCapture = "1"
+[2023.06.26-14.36.17:181][426]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2023.06.26-14.36.17:181][426]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2023.06.26-14.36.17:183][426]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.06.26-14.36.17:183][426]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.26-14.36.17:183][426]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.06.26-14.36.17:186][426]LogLoad: Took 0.920258 seconds to LoadMap(/Game/Stages/Main/MainMenu)
+[2023.06.26-14.36.17:195][426]LogSlate: Took 0.001669 seconds to synchronously load lazily loaded font '../../../MyEarth/Content/Resources/Font/CAFE24SSURROUND.ufont' (1300K)
+[2023.06.26-14.36.17:199][427]LogNet: Browse: /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.17:199][427]LogLoad: LoadMap: /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.17:199][427]LogWorld: BeginTearingDown for /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.17:204][427]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.36.17:218][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.36.17:254][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-14.36.17:565][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.26-14.36.17:577][427]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.26-14.36.18:325][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.06.26-14.36.18:327][427]LogAIModule: Creating AISystem for world MainMenu
+[2023.06.26-14.36.18:327][427]LogLoad: Game class is 'PlayerGameMode_C'
+[2023.06.26-14.36.18:363][427]LogWorld: Bringing World /Game/Stages/Main/MainMenu.MainMenu up for play (max tick rate 0) at 2023.06.26-23.36.18
+[2023.06.26-14.36.18:364][427]LogWorld: Bringing up level for play took: 0.028670
+[2023.06.26-14.36.18:373][427]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-14.36.18:375][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [PlayerCharacter_C]
+[2023.06.26-14.36.18:375][427]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.06.26-14.36.18:383][427]r.LightFunctionQuality = "1"
+[2023.06.26-14.36.18:383][427]r.SkyLight.RealTimeReflectionCapture = "1"
+[2023.06.26-14.36.18:383][427]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2023.06.26-14.36.18:383][427]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2023.06.26-14.36.18:385][427]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.06.26-14.36.18:388][427]LogLoad: Took 1.189225 seconds to LoadMap(/Game/Stages/Main/MainMenu)
+[2023.06.26-14.36.18:397][427]LogSlate: Took 0.001742 seconds to synchronously load lazily loaded font '../../../MyEarth/Content/Resources/Font/CAFE24SSURROUND.ufont' (1300K)
+[2023.06.26-14.36.18:397][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.36.18:405][428]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.26-14.36.18:407][428]LogSlate: Took 0.001126 seconds to synchronously load lazily loaded font '../../../MyEarth/Content/Resources/Font/CAFE24SSURROUND.ufont' (1300K)
+[2023.06.26-14.36.19:626][452]LogNet: Browse: /Game/Stages/OpenningAnimation/OpenningMap
+[2023.06.26-14.36.19:626][452]LogLoad: LoadMap: /Game/Stages/OpenningAnimation/OpenningMap
+[2023.06.26-14.36.19:626][452]LogWorld: BeginTearingDown for /Game/Stages/Main/MainMenu
+[2023.06.26-14.36.19:629][452]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.36.19:638][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.36.19:664][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-14.36.19:731][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.26-14.36.19:743][452]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.26-14.36.20:504][452]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenningMap'.
+[2023.06.26-14.36.20:505][452]LogAIModule: Creating AISystem for world OpenningMap
+[2023.06.26-14.36.20:506][452]LogLoad: Game class is 'PlayerGameMode_C'
+[2023.06.26-14.36.20:540][452]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2023.06.26-14.36.20:543][452]LogWorld: Bringing World /Game/Stages/OpenningAnimation/OpenningMap.OpenningMap up for play (max tick rate 0) at 2023.06.26-23.36.20
+[2023.06.26-14.36.20:544][452]LogWorld: Bringing up level for play took: 0.030641
+[2023.06.26-14.36.20:551][452]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-14.36.20:553][452]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [PlayerCharacter_C]
+[2023.06.26-14.36.20:553][452]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.06.26-14.36.20:558][452]r.LightFunctionQuality = "1"
+[2023.06.26-14.36.20:559][452]r.SkyLight.RealTimeReflectionCapture = "1"
+[2023.06.26-14.36.20:559][452]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2023.06.26-14.36.20:559][452]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2023.06.26-14.36.20:564][452]LogLoad: Took 0.938290 seconds to LoadMap(/Game/Stages/OpenningAnimation/OpenningMap)
+[2023.06.26-14.37.02:366][538]LogTaskGraph: Warning: Task graph took  28.99ms for RT to recieve broadcast.
+[2023.06.26-14.37.02:366][538]LogTaskGraph: Warning: Task graph took  29.20ms for RT to recieve broadcast and do processing.
+[2023.06.26-14.37.02:366][538]LogTaskGraph: Warning: Task graph took  29.04ms to wait for named thread broadcast.
+[2023.06.26-14.37.02:366][538]LogTaskGraph: Warning: Task graph took  29.29ms to broadcast.
+[2023.06.26-14.37.08:744][720]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.26-14.37.08:744][720]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.06.26-14.37.08:772][721]LogNet: Browse: /Game/Stages/Integrated_Environment/IntegratedTestMap
+[2023.06.26-14.37.08:772][721]LogLoad: LoadMap: /Game/Stages/Integrated_Environment/IntegratedTestMap
+[2023.06.26-14.37.08:772][721]LogWorld: BeginTearingDown for /Game/Stages/OpenningAnimation/OpenningMap
+[2023.06.26-14.37.08:775][721]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	OpenningMap_C /Game/Stages/OpenningAnimation/OpenningMap.OpenningMap:PersistentLevel.OpenningMap_C_0
+	Function /Game/Stages/OpenningAnimation/OpenningMap.OpenningMap_C:ExecuteUbergraph_OpenningMap:02EB
+[2023.06.26-14.37.08:775][721]LogScript: Warning: Script call stack:
+	Function /Game/Stages/OpenningAnimation/OpenningMap.OpenningMap_C:loadStageLevel
+	Function /Game/Stages/OpenningAnimation/OpenningMap.OpenningMap_C:ExecuteUbergraph_OpenningMap
+
+[2023.06.26-14.37.08:775][721]LogWorld: UWorld::CleanupWorld for OpenningMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.37.08:785][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.37.08:813][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-14.37.08:853][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.26-14.37.08:866][721]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.26-14.37.10:014][721]LogPakFile: Precache HighWater 96MB
+
+[2023.06.26-14.37.10:014][721]LogPakFile: Precache HighWater 112MB
+
+[2023.06.26-14.37.10:014][721]LogPakFile: Precache HighWater 128MB
+
+[2023.06.26-14.37.10:041][721]LogAudio: Display: Audio Device (ID: 1) registered with world 'IntegratedTestMap'.
+[2023.06.26-14.37.10:042][721]LogAIModule: Creating AISystem for world IntegratedTestMap
+[2023.06.26-14.37.10:043][721]LogLoad: Game class is 'PlayerGameMode_C'
+[2023.06.26-14.37.10:174][721]LogWorld: Bringing World /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap up for play (max tick rate 0) at 2023.06.26-23.37.10
+[2023.06.26-14.37.10:177][721]LogWorld: Bringing up level for play took: 0.133925
+[2023.06.26-14.37.10:194][721]r.LightFunctionQuality = "1"
+[2023.06.26-14.37.10:195][721]r.SkyLight.RealTimeReflectionCapture = "1"
+[2023.06.26-14.37.10:195][721]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2023.06.26-14.37.10:195][721]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2023.06.26-14.37.10:195][721]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2023.06.26-14.37.10:302][721]LogLoad: Took 1.530291 seconds to LoadMap(/Game/Stages/Integrated_Environment/IntegratedTestMap)
+[2023.06.26-14.37.10:536][723]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap00 1 1 1
+[2023.06.26-14.37.10:537][723]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap00) is flushing async loading
+[2023.06.26-14.37.10:537][723]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.37.10:545][723]LogBlueprintUserMessages: [AnimBP_SnowPenguin_C_2147481865] Hello
+[2023.06.26-14.37.10:569][724]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.13:786][814]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:37:13 PM]  "IntegratedTestMap submap00" 진입
+[2023.06.26-14.37.14:148][824]LogNiagara: Niagara Effect stalled GT for 0.5107 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481854) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.14:697][839]LogNiagara: Niagara Effect stalled GT for 0.2439 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481852) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.14:963][846]LogNiagara: Niagara Effect stalled GT for 0.4511 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481851) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.15:215][853]LogNiagara: Niagara Effect stalled GT for 0.5012 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481850) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.15:481][860]LogNiagara: Niagara Effect stalled GT for 0.4452 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481848) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.15:781][868]LogNiagara: Niagara Effect stalled GT for 0.6176 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481845) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.16:038][875]LogNiagara: Niagara Effect stalled GT for 0.4102 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481844) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.16:306][882]LogNiagara: Niagara Effect stalled GT for 0.4116 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481843) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.16:854][897]LogNiagara: Niagara Effect stalled GT for 0.3638 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481841) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.17:116][904]LogNiagara: Niagara Effect stalled GT for 0.3919 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481840) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.17:410][912]LogNiagara: Niagara Effect stalled GT for 0.4303 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481839) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.17:637][918]LogNiagara: Niagara Effect stalled GT for 0.4069 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481837) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.17:892][925]LogNiagara: Niagara Effect stalled GT for 0.4025 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481836) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.18:161][932]LogNiagara: Niagara Effect stalled GT for 0.3942 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481835) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.18:657][945]LogNiagara: Niagara Effect stalled GT for 0.3718 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481832) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.21:912][ 30]LogNiagara: Niagara Effect stalled GT for 0.3323 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481827) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.22:464][ 45]LogNiagara: Niagara Effect stalled GT for 0.2817 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481824) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.22:727][ 52]LogNiagara: Niagara Effect stalled GT for 0.3395 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481823) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.23:001][ 59]LogNiagara: Niagara Effect stalled GT for 0.3468 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481821) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.26:541][156]LogNiagara: Niagara Effect stalled GT for 0.3422 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481817) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.28:523][211]LogNiagara: Niagara Effect stalled GT for 0.3612 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481769) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.28:787][218]LogNiagara: Niagara Effect stalled GT for 0.3715 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481768) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.29:079][226]LogNiagara: Niagara Effect stalled GT for 0.3539 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481767) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.29:343][233]LogNiagara: Niagara Effect stalled GT for 0.3481 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481766) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.29:599][240]LogNiagara: Niagara Effect stalled GT for 0.3352 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481765) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.29:891][248]LogNiagara: Niagara Effect stalled GT for 0.5558 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481763) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.33:444][342]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.37.33:447][342]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap01) is flushing async loading
+[2023.06.26-14.37.33:447][342]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.37.33:481][343]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.33:520][344]LogNiagara: Niagara Effect stalled GT for 0.423 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481748) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.37.33:557][345]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.37.33:559][345]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.34:198][362]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.37.34:200][362]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.45:302][659]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.37.45:303][659]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.45:396][661]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.37.45:397][661]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.37.47:417][723]LogNiagara: Niagara Effect stalled GT for 0.3872 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481718) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.03:475][170]LogTaskGraph: Warning: Task graph took  25.54ms for RT to recieve broadcast.
+[2023.06.26-14.38.03:475][170]LogTaskGraph: Warning: Task graph took  25.80ms for RT to recieve broadcast and do processing.
+[2023.06.26-14.38.03:475][170]LogTaskGraph: Warning: Task graph took  25.68ms to wait for named thread broadcast.
+[2023.06.26-14.38.03:475][170]LogTaskGraph: Warning: Task graph took  25.87ms to broadcast.
+[2023.06.26-14.38.07:114][275]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:38:07 PM]  "IntegratedTestMap submap01" 진입
+[2023.06.26-14.38.07:192][277]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:38:07 PM]  IntegratedTestMap submap00 퇴장
+[2023.06.26-14.38.07:231][278]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap02 1 1 1
+[2023.06.26-14.38.07:231][278]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap02) is flushing async loading
+[2023.06.26-14.38.07:231][278]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.38.07:270][279]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.14:304][490]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.14:305][490]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.14:364][492]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.14:365][492]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.19:487][644]LogNiagara: Niagara Effect stalled GT for 0.2923 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481611) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.21:072][689]LogNiagara: Niagara Effect stalled GT for 0.2148 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481591) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.23:394][749]LogBlueprintUserMessages: [None] [Respawn] [Jun 26, 2023, 11:38:23 PM]  "IntegratedTestMap submap01" 리스폰 실행
+[2023.06.26-14.38.23:394][749]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 0 0 0
+[2023.06.26-14.38.23:430][750]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap01 1 1 1
+[2023.06.26-14.38.23:470][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.06.26-14.38.23:472][750]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap01) is flushing async loading
+[2023.06.26-14.38.23:473][750]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.38.24:076][769]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.24:077][769]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.24:110][770]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.24:111][770]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.31:628][993]LogNiagara: Niagara Effect stalled GT for 0.3334 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481507) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.33:123][ 36]LogNiagara: Niagara Effect stalled GT for 0.4018 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481505) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.33:665][ 51]LogNiagara: Niagara Effect stalled GT for 0.322 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481483) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.38:569][184]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.38:570][184]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.38:671][187]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.38:672][187]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.38.41:658][267]LogNiagara: Niagara Effect stalled GT for 0.3455 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481452) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.45:563][376]LogNiagara: Niagara Effect stalled GT for 0.2808 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481443) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.46:111][390]LogNiagara: Niagara Effect stalled GT for 0.3748 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481441) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.54:791][631]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:38:54 PM]  IntegratedTestMap submap01 퇴장
+[2023.06.26-14.38.54:828][632]LogNiagara: Niagara Effect stalled GT for 0.3938 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481428) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.55:074][639]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:38:55 PM]  "IntegratedTestMap submap02" 진입
+[2023.06.26-14.38.55:362][647]LogNiagara: Niagara Effect stalled GT for 0.3345 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481426) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.55:503][651]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap03 1 1 1
+[2023.06.26-14.38.55:505][651]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap03) is flushing async loading
+[2023.06.26-14.38.55:505][651]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.38.55:555][652]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap00 0 0 0
+[2023.06.26-14.38.55:591][653]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap03 1 1 1
+[2023.06.26-14.38.55:593][653]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap00 0 0 0
+[2023.06.26-14.38.55:631][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.06.26-14.38.55:638][654]LogNiagara: Niagara Effect stalled GT for 0.347 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481414) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.38.56:797][686]LogNiagara: Niagara Effect stalled GT for 0.3369 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481412) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.08:243][990]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.08:244][990]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.08:347][993]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.08:348][993]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.09:218][ 16]LogNiagara: Niagara Effect stalled GT for 0.3329 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481390) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.09:714][ 29]LogNiagara: Niagara Effect stalled GT for 0.3004 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481388) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.12:359][ 99]LogNiagara: Niagara Effect stalled GT for 0.3939 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481385) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.12:617][106]LogNiagara: Niagara Effect stalled GT for 0.3436 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481384) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.21:472][353]LogNiagara: Niagara Effect stalled GT for 0.3153 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481373) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.32:317][647]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:39:32 PM]  IntegratedTestMap submap02 퇴장
+[2023.06.26-14.39.35:867][740]LogBlueprintUserMessages: [None] [Respawn] [Jun 26, 2023, 11:39:35 PM]  "IntegratedTestMap submap02" 리스폰 실행
+[2023.06.26-14.39.35:867][740]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap02 0 0 0
+[2023.06.26-14.39.35:903][741]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap02 1 1 1
+[2023.06.26-14.39.35:942][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.26-14.39.35:944][741]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap02) is flushing async loading
+[2023.06.26-14.39.35:944][741]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.39.36:454][755]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.36:456][755]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.38:666][813]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.38:667][813]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.39.39:347][833]LogNiagara: Niagara Effect stalled GT for 0.2251 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481313) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.40:747][873]LogNiagara: Niagara Effect stalled GT for 0.2605 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481310) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.41:253][887]LogNiagara: Niagara Effect stalled GT for 0.3182 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481308) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.41:512][894]LogNiagara: Niagara Effect stalled GT for 0.2939 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481307) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.42:085][909]LogNiagara: Niagara Effect stalled GT for 0.357 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481306) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.45:018][988]LogNiagara: Niagara Effect stalled GT for 0.3893 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481304) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.45:262][995]LogNiagara: Niagara Effect stalled GT for 0.2865 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481303) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.47:056][ 45]LogNiagara: Niagara Effect stalled GT for 0.457 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481302) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.51:531][175]LogNiagara: Niagara Effect stalled GT for 0.2985 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481295) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.53:029][219]LogNiagara: Niagara Effect stalled GT for 0.4013 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481294) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.53:291][227]LogNiagara: Niagara Effect stalled GT for 0.306 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481293) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.39.53:590][236]LogNiagara: Niagara Effect stalled GT for 0.2882 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481292) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.12:974][789]LogNiagara: Niagara Effect stalled GT for 0.3763 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481280) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.17:223][914]LogNiagara: Niagara Effect stalled GT for 0.3741 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481279) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.17:475][921]LogNiagara: Niagara Effect stalled GT for 0.3246 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481278) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.19:975][992]LogBlueprintUserMessages: [None] [Respawn] [Jun 26, 2023, 11:40:19 PM]  "IntegratedTestMap submap02" 리스폰 실행
+[2023.06.26-14.40.19:975][992]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap02 0 0 0
+[2023.06.26-14.40.20:009][993]LogLevel: ActivateLevel /Game/Stages/Integrated_Environment/submap02 1 1 1
+[2023.06.26-14.40.20:047][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.26-14.40.20:050][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Stages/Integrated_Environment/submap02) is flushing async loading
+[2023.06.26-14.40.20:050][993]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2023.06.26-14.40.20:561][  7]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.40.20:563][  7]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.40.22:491][ 59]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.40.22:492][ 59]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.40.23:731][ 95]LogNiagara: Niagara Effect stalled GT for 0.3274 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481226) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.23:974][102]LogNiagara: Niagara Effect stalled GT for 0.3144 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481225) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.40.24:275][111]LogNiagara: Niagara Effect stalled GT for 0.3405 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481224) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.03:958][281]LogNiagara: Niagara Effect stalled GT for 0.4595 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481212) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.05:606][330]LogNiagara: Niagara Effect stalled GT for 0.3 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481210) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.20:769][770]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:41:20 PM]  IntegratedTestMap submap02 퇴장
+[2023.06.26-14.41.21:163][780]LogTaskGraph: Warning: Task graph took  28.69ms for RT to recieve broadcast.
+[2023.06.26-14.41.21:163][780]LogTaskGraph: Warning: Task graph took  28.91ms for RT to recieve broadcast and do processing.
+[2023.06.26-14.41.21:163][780]LogTaskGraph: Warning: Task graph took  28.77ms to wait for named thread broadcast.
+[2023.06.26-14.41.21:163][780]LogTaskGraph: Warning: Task graph took  28.99ms to broadcast.
+[2023.06.26-14.41.22:042][805]LogNiagara: Niagara Effect stalled GT for 0.2078 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481195) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.22:317][813]LogNiagara: Niagara Effect stalled GT for 0.2805 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481194) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.22:605][821]LogNiagara: Niagara Effect stalled GT for 0.397 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481193) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.22:708][824]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.41.22:709][824]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.41.22:784][826]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.41.22:785][826]LogLevel: Warning: Failed to find streaming level object associated with 'NULL'
+[2023.06.26-14.41.24:043][861]LogNiagara: Niagara Effect stalled GT for 0.3753 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481188) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.24:332][867]LogNiagara: Niagara Effect stalled GT for 0.3595 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481187) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.24:581][874]LogNiagara: Niagara Effect stalled GT for 0.3535 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481186) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.24:852][882]LogNiagara: Niagara Effect stalled GT for 0.3079 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481185) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.25:123][890]LogNiagara: Niagara Effect stalled GT for 0.3122 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481184) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.25:383][898]LogNiagara: Niagara Effect stalled GT for 0.3185 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481183) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.26:228][922]LogNiagara: Niagara Effect stalled GT for 0.3752 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481181) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.31:572][ 68]LogNiagara: Niagara Effect stalled GT for 0.3059 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481177) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.34:193][140]LogNiagara: Niagara Effect stalled GT for 0.5771 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481175) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.39:644][290]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:41:39 PM]  IntegratedTestMap submap02 퇴장
+[2023.06.26-14.41.42:246][362]LogBlueprintUserMessages: [None] [PlayTime] [Jun 26, 2023, 11:41:42 PM]  IntegratedTestMap submap02 퇴장
+[2023.06.26-14.41.45:157][444]LogNiagara: Niagara Effect stalled GT for 0.3527 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481158) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.46:647][485]LogNiagara: Niagara Effect stalled GT for 0.3991 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481157) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.46:914][492]LogNiagara: Niagara Effect stalled GT for 0.5509 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481156) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.47:806][517]LogNiagara: Niagara Effect stalled GT for 0.3616 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481155) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.48:342][532]LogNiagara: Niagara Effect stalled GT for 0.2412 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481153) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.57:657][786]LogNiagara: Niagara Effect stalled GT for 0.3398 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481149) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.57:917][793]LogNiagara: Niagara Effect stalled GT for 0.5221 ms. Component(NiagaraComponent /Game/Stages/Integrated_Environment/IntegratedTestMap.IntegratedTestMap:PersistentLevel.WorldSettings_1.NiagaraComponent_2147481148) System(NiagaraSystem /Game/FootstepParticles/Particles/NS_Snow.NS_Snow)
+[2023.06.26-14.41.58:610][812]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.26-14.41.58:610][812]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.06.26-14.41.58:610][812]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.26-14.41.58:610][812]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.06.26-14.41.58:614][812]LogSlate: Took 0.001076 seconds to synchronously load lazily loaded font '../../../MyEarth/Content/Resources/Font/CAFE24SSURROUND.ufont' (1300K)
+[2023.06.26-14.42.00:207][855]Closing by request
+[2023.06.26-14.42.00:207][855]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.06.26-14.42.00:207][855]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.06.26-14.42.00:207][855]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.06.26-14.42.00:243][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.06.26-14.42.00:243][856]LogInit: Display: PreExit Game.
+[2023.06.26-14.42.00:249][856]LogWorld: BeginTearingDown for /Game/Stages/Integrated_Environment/IntegratedTestMap
+[2023.06.26-14.42.00:255][856]LogWorld: UWorld::CleanupWorld for IntegratedTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.42.00:957][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.42.00:957][856]LogWorld: UWorld::CleanupWorld for submap01, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.42.00:957][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.42.00:957][856]LogWorld: UWorld::CleanupWorld for submap03, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.42.00:957][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.42.00:957][856]LogWorld: UWorld::CleanupWorld for submap02, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-14.42.00:957][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-14.42.01:023][856]LogStreaming: Display: Suspending async loading (1)
+[2023.06.26-14.42.01:043][856]LogStreaming: Display: Resuming async loading (0)
+[2023.06.26-14.42.01:045][856]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.06.26-14.42.01:045][856]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.06.26-14.42.01:045][856]LogAudio: Display: Audio Device unregistered from world 'IntegratedTestMap'.
+[2023.06.26-14.42.01:079][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.26-14.42.01:079][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.26-14.42.01:103][856]LogAudio: Display: Audio Device Manager Shutdown
+[2023.06.26-14.42.01:103][856]LogSlate: Request Window 'MyEarth (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.06.26-14.42.01:103][856]LogStreaming: Display: Suspending async loading (1)
+[2023.06.26-14.42.01:117][856]LogStreaming: Display: Resuming async loading (0)
+[2023.06.26-14.42.01:118][856]LogSlate: Window 'MyEarth (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.06.26-14.42.01:140][856]LogExit: Preparing to exit.
+[2023.06.26-14.42.01:140][856]LogMoviePlayer: Shutting down movie player
+[2023.06.26-14.42.01:147][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-14.42.01:193][856]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.06.26-14.42.01:195][856]LogExit: Game engine shut down
+[2023.06.26-14.42.01:312][856]LogExit: Object subsystem successfully closed.
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module AutomationController (362)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module AutomationWorker (360)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module Voice (358)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module NavigationSystem (353)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (350)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module WebMMedia (348)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module OpenXRInput (346)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module OculusMR (344)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (342)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (340)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (338)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (336)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module CharacterAI (334)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module PlanarCut (332)
+[2023.06.26-14.42.01:467][856]LogModuleManager: Shutting down and abandoning module SessionServices (330)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module LiveCoding (328)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module LevelSequence (326)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (324)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module MovieScene (322)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (320)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (318)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module AudioMixerCore (317)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (314)
+[2023.06.26-14.42.01:468][856]LogModuleManager: Shutting down and abandoning module ProfilerService (312)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module TaskGraph (310)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module Synthesis (308)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module TakeMovieScene (306)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (304)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (302)
+[2023.06.26-14.42.01:512][856]LogModuleManager: Shutting down and abandoning module LiveLink (300)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module OculusInput (298)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (296)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GooglePAD (294)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (292)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module CableComponent (290)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AudioCapture (288)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (287)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AssetTags (284)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (282)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AndroidPermission (278)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (276)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MediaCompositing (274)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ImgMedia (272)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (270)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (268)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (266)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (264)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (262)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (260)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MotoSynth (258)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ChaosNiagara (256)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (254)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (252)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module EditableMesh (250)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MeshConversion (248)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module DynamicMesh (246)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (244)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GeometricObjects (242)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module BackChannel (240)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AutomationUtils (238)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (236)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GeometryCache (234)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module UObjectPlugin (232)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (230)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module TemplateSequence (228)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module Landmass (226)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (224)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (222)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module SoundFields (220)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (218)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (214)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ActorSequence (212)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module UdpMessaging (210)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module TcpMessaging (208)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (206)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (204)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (202)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (200)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (198)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (196)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (194)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (192)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (190)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapController (188)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (186)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapAR (184)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (182)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (180)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module Niagara (178)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module SignalProcessing (177)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module NiagaraCore (174)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module FacialAnimation (172)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module SignificanceManager (170)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module AnimationSharing (168)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module GameplayCameras (166)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (164)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module Paper2D (162)
+[2023.06.26-14.42.01:987][856]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (160)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (158)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (156)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module PacketHandler (154)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (152)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module MediaAssets (150)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module Overlay (148)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module FunctionalTesting (146)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module MessageLog (144)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module UMG (142)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module SlateReflector (140)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module Slate (138)
+[2023.06.26-14.42.01:988][856]LogModuleManager: Shutting down and abandoning module SlateCore (136)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module MRMesh (134)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module Messaging (132)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (130)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module XAudio2 (128)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module Networking (126)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module Core (124)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (122)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module ImageWrapper (118)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module D3D11RHI (116)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module PhysXCooking (110)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module Chaos (108)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (106)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (105)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module AVEncoder (104)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (100)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module SteamVRInput (98)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module SteamVR (96)
+[2023.06.26-14.42.01:989][856]LogHMD: Freeing OpenVRDLLHandle.
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (94)
+[2023.06.26-14.42.01:989][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OpenXRAR (92)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module AugmentedReality (91)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OpenXRHMD (88)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (86)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2023.06.26-14.42.01:989][856]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2023.06.26-14.42.01:989][856]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.06.26-14.42.01:995][856]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2023.06.26-14.42.01:995][856]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module Media (63)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module MediaInfo (62)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (58)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module MLSDK (56)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (52)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module NiagaraShader (50)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module ChaosCloth (48)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module VariantManagerContent (46)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module DatasmithContent (44)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module PixWinPlugin (42)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module AISupportModule (40)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module Volumetrics (38)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (30)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (28)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.06.26-14.42.01:996][856]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.06.26-14.42.01:997][856]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.06.26-14.42.01:998][856]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.06.26-14.42.01:998][856]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.06.26-14.42.02:004][856]LogD3D11RHI: Shutdown
+[2023.06.26-14.42.02:004][856]LogD3D11RHI: CleanupD3DDevice
+[2023.06.26-14.42.02:010][856]LogExit: Exiting.
+[2023.06.26-14.42.02:065][856]Log file closed, 06/26/23 23:42:02
