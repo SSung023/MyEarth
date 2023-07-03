@@ -8,5 +8,9 @@
 			"Name": "Volumetrics",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"MacNoEditor"
 	]
 }
